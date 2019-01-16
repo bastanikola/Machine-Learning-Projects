@@ -1,4 +1,4 @@
-# MACHINE LEARNING PROJECTS
+# MACHINE LEARNING DEVELOPMENT PROJECTS
 
 These projects were accomplished in cooperation with Udemy course:
   - Python 3 Programming: "Begginer to Pro MasterClass" - Dr. Ryan Ahmed and
