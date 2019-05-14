@@ -1,11 +1,11 @@
 # MACHINE LEARNING DEVELOPMENT PROJECTS
 
 These projects were accomplished in cooperation with Udemy course:
-  - Python 3 Programming: "Begginer to Pro MasterClass" - Dr. Ryan Ahmed and
+  - Python 3 Programming: "Begginer to Pro MasterClass"
   - Python A-Z: "Python For Data Science With Real Exercises!"
+  - Python for Data Science and Machine Learning Bootcamp
   - Machine Learning A-Z™: Hands-On Python & R In Data Science
   - Deep Learning and NLP A-Z™: How to create a ChatBot
-  - Python for Data Science and Machine Learning Bootcamp
   - Deep Learning A-Z™: Hands-On Artificial Neural Networks
   - Artificial Intelligence A-Z™: Learn How To Build An AI
 
