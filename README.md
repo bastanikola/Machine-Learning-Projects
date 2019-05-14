@@ -2,7 +2,8 @@
 
 These projects were accomplished in cooperation with Udemy course:
   - Python 3 Programming: "Begginer to Pro MasterClass" - Dr. Ryan Ahmed and
-  - Python A-Z: "Python For Data Science With Real Exercises!" - Kirill Eremenko
+  - Python A-Z: "Python For Data Science With Real Exercises!"
+  - Machine Learning A-Z™: Hands-On Python & R In Data Science
 
 Install Anaconda Python 3.6 version
   - https://conda.io/docs/user-guide/install/index.html 
@@ -12,6 +13,9 @@ Install Python 3.6
   
 Install Jupyter Notebook
   - https://jupyter.org/install
+  
+Install Spider
+  - https://www.spyder-ide.org/
 
 
 
